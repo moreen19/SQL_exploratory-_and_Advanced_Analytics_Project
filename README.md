@@ -16,7 +16,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ### Sample of SQL analytics on Customer Behaviour
 
-Below are samples of SQL analytics code used to generate reports and data. The SQL code makes use of:
+SQL analytics code was used to generate reports and data. The SQL code makes use of:
+
 - DDLS for data manipulation e.g CREATE, ALTER, DROP
 - DML e.g INSERT, UPDATE, DELETE
 - OPERATORS  e.g for comparison, membership, logical operators, search and range operators
@@ -33,8 +34,25 @@ Below are samples of SQL analytics code used to generate reports and data. The S
 - VIEWS
 - CTAS
 - STORED PROCEDURES
+  
+**Some of the analytics carried out**
 
-   More scripts used for analysis can be found in the scripts folder.
+- Change over time
+- Cummulative analysis
+- Performance analysis
+- Part to whole
+- Data segmentation
+- Reporting
+- Exploratory analysis
+- Database exploration
+- Dimensions exploration
+- Date exploration
+- Measures exploration
+- Magnitude analysis
+- Ranking
+
+
+   Below are samples of of the SQL code used. More scripts used for analysis can be found in the scripts folder.
 
 ```sql
 /*

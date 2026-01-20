@@ -12,7 +12,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## Projet Roadmap
 
-![Roadmap](./docs/Project_Roadmap.png)
+![Roadmap](./docs/Project_Roadmap.PNG)
 
 ### Sample of SQL analytics on Customer Behaviour
 
